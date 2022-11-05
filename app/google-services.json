@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16805051274",
+    "project_id": "messages-37d8d",
+    "storage_bucket": "messages-37d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16805051274:android:473fef094b5af3fbde2673",
+        "android_client_info": {
+          "package_name": "com.phanith.messages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16805051274-afg54lntg90rssvnph7pd1f7ha37ieir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbpdzEDf26dfFH0ZhWQiREnZDR4bZji8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16805051274-afg54lntg90rssvnph7pd1f7ha37ieir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
